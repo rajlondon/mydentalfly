@@ -1,3 +1,3 @@
 # MyDentalFly
 
-A dental tourism platform
+A streamlined dental tourism platform connecting patients with international dental clinics
